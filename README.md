@@ -4,6 +4,8 @@
 
 **Fix:** Creates a .vimrc file in your home directory which contains: ' :set mouse= ' this **fixes the problem permanently**.
 
+**Apply the Fix:** You can either create the file yourself or run my ./install-fix.sh which will create the file for you.
+
 If you used this or found it useful please let me know, send me a message on GitHub or Twitter @ashleycawley
 
 Enjoy.
